@@ -817,6 +817,7 @@ Questions about layouts in Android. Linear Relative etc.
 ### Q What are the Ads integration you have done ?
 
 ### Q How you handle memory leaks ? and optimisation ?
+### A https://android.jlelse.eu/9-ways-to-avoid-memory-leaks-in-android-b6d81648e35e
 
 
 
