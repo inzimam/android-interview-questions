@@ -1,4 +1,21 @@
-# android-interview-questions
+                                      # Android Interview Questions 2019
+                                      
+# Q:  What is the use of DiffUtil?
+# Q:  MVVM Vs MVP
+# Q:  What is Clean Architecture?
+# Q:  Difference between ViewModel and Presenter?
+# Q:  Sub Component and Scopes in Dagger2?
+# Q:  Drawbacks of Dagger and how Dagger2 is different from Dagger?
+# Q:  How to handle 2 classes dependency in each other?
+# Q:  What is repository in MVVM?
+# Q:  How to upload aar?
+# Q:  What is lifecycle of Livedata?
+# Q:  How ViewModel works internally?
+# Q:  Does Workmanger works in background?
+
+
+
+# android-interview-questions 2018
 
 Here is collection for all interview questions asked in different companies in India for an fresher to experienced android developer. 
 
