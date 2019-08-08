@@ -1,6 +1,6 @@
 Here is collection for all interview questions asked in different companies in India for an fresher to experienced android developer.
                                       
-#**Android Interview Questions 2019          **
+#**Android Interview Questions 2019**
                                       
 ### Q:  What is the use of DiffUtil?
 ### Q:  MVVM Vs MVP
