@@ -1,7 +1,9 @@
-                                      # Android Interview Questions 2019
+Here is collection for all interview questions asked in different companies in India for an fresher to experienced android developer.
                                       
-# Q:  What is the use of DiffUtil?
-# Q:  MVVM Vs MVP
+                                      #__Android Interview Questions 2019__
+                                      
+### Q:  What is the use of DiffUtil?
+### Q:  MVVM Vs MVP
 # Q:  What is Clean Architecture?
 # Q:  Difference between ViewModel and Presenter?
 # Q:  Sub Component and Scopes in Dagger2?
@@ -15,9 +17,7 @@
 
 
 
-# android-interview-questions 2018
-
-Here is collection for all interview questions asked in different companies in India for an fresher to experienced android developer. 
+                                                # android-interview-questions 2018
 
 ### Q: What is Android ?
 
