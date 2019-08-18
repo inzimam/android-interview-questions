@@ -17,6 +17,7 @@ Here is collection for all interview questions asked in different companies in I
 ### Q:  Type of Livedata?
 1. MutableLiveData
 2. MediatorLiveData
+
 Ref: https://medium.com/@elye.project/understanding-live-data-made-simple-a820fcd7b4d0
 
 # android-interview-questions 2018
