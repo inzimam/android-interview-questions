@@ -14,6 +14,9 @@ Here is collection for all interview questions asked in different companies in I
 ### Q:  What is lifecycle of Livedata?
 ### Q:  How ViewModel works internally?
 ### Q:  Does Workmanger works in background?
+### Q:  Type of Livedata?
+1. MutableLiveData
+2. MediatorLiveData
 
 
 # android-interview-questions 2018
