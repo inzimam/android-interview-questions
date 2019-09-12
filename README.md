@@ -6,7 +6,7 @@ Here is collection for all interview questions asked in different companies in I
     https://www.glassdoor.co.in/Interview/Alice-and-Bob-work-in-a-beautiful-orchard-There-are-N-apple-trees-in-the-orchard-The-apple-trees-are-arranged-in-a-row-an-QTN_2639746.htm
     
 ### Q:Longest common subsequece in 2 string
-    https://www.techiedelight.com/longest-common-substring-problem/
+Ans :    https://www.techiedelight.com/longest-common-substring-problem/
     
 ### Q:Linklist intersection check
 
