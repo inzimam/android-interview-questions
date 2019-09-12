@@ -1,6 +1,52 @@
 Here is collection for all interview questions asked in different companies in India for an fresher to experienced android developer.
                                       
 # Android Interview Questions 2019
+
+### Q: Apple DS Problem 
+    https://www.glassdoor.co.in/Interview/Alice-and-Bob-work-in-a-beautiful-orchard-There-are-N-apple-trees-in-the-orchard-The-apple-trees-are-arranged-in-a-row-an-QTN_2639746.htm
+    
+### Q:Longest common subsequece in 2 string
+    https://www.techiedelight.com/longest-common-substring-problem/
+    
+### Q:Linklist intersection check
+
+### Q:Graph min shortest path
+
+### Q:Image loading library mechanism
+
+### Q:HashMap internal functionality
+
+### Q:How many objects if string concatenated
+
+### Q:Try catch(Exception){} catch(NullPointrException){} - Output
+
+### Q:Public method in base class and overridden function is protected.. what will happen?
+
+### Q:Use of RxJava
+
+### Q:Map vs FlatMap in Rxjava
+
+### Q:Usecase of Viewmodel
+
+### Q: kth smallest or kth largest without sorting.
+
+### Q: Max sum between two nodes in a binary tree
+
+### Q: Swap first with last, second woth second last and so on in a linked list
+
+### Q: Post Order Traversal Binary tree iterative version
+
+### Q: input string = "TimesInternet" word = "rnet" check to find if word is in input string
+
+### Q: print nth node from the end in linkedList
+
+### Q: ViewModel vs Android ViewModel
+
+### Q: MVVM sample code
+
+### Q: Caching in Volley (Netwoprk layer optimizxations)
+
+
                                       
 ### Q:  What is the use of DiffUtil?
 Ans :  https://medium.com/@iammert/using-diffutil-in-android-recyclerview-bdca8e4fbb00
