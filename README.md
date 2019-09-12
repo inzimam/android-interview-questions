@@ -3,7 +3,7 @@ Here is collection for all interview questions asked in different companies in I
 # Android Interview Questions 2019
 
 ### Q: Apple DS Problem 
-    https://www.glassdoor.co.in/Interview/Alice-and-Bob-work-in-a-beautiful-orchard-There-are-N-apple-trees-in-the-orchard-The-apple-trees-are-arranged-in-a-row-an-QTN_2639746.htm
+Ans :    https://www.glassdoor.co.in/Interview/Alice-and-Bob-work-in-a-beautiful-orchard-There-are-N-apple-trees-in-the-orchard-The-apple-trees-are-arranged-in-a-row-an-QTN_2639746.htm
     
 ### Q:Longest common subsequece in 2 string
 Ans :    https://www.techiedelight.com/longest-common-substring-problem/
